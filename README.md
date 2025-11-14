@@ -1,33 +1,82 @@
-👋 Hi, I’m Kabir Phutela
+<h1 align="center">Hi 👋, I'm Kabir Phutela</h1>
+<h3 align="center">Data & Business Analyst | ML Enthusiast | Product Thinker</h3>
 
-Aspiring Data & Business Analyst focused on identifying real-world problems and transforming them into scalable, actionable solutions. Skilled in data analysis, machine learning, software development, and product thinking, with hands-on experience building impactful tech projects. Known for combining analytical reasoning with an entrepreneurial mindset to deliver user-focused insights and optimize business processes. Strong ability to support data-driven decision-making through structured analysis and clear problem-solving.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-🚀 Featured Projects
-🔹 Sales Insight Engine
+---
 
-📌 EDA project revealing demographic patterns, survival distributions, and class-based insights.
-🔗 Repo: https://github.com/kabir-phutela/Sales-Insight-Engine
+## 🧑‍💻 About Me  
+- 🎓 Aspiring **Data & Business Analyst** with a passion for solving real-world problems using data.  
+- 📊 Skilled in **EDA, Machine Learning, Feature Engineering, Forecasting, and Storytelling** through dashboards.  
+- 🚀 Experienced in building **end-to-end analytical solutions**, from ML models to API deployments.  
+- 📚 Published a research paper: **LoRa Railway Safety System — IJIRT (2025)**  
+- 💡 I love blending analytics + business thinking to build **user-centric, scalable products**.
 
-🔹 Dynamic Pricing with Machine Learning
+---
 
-📌 Forecasting sales using XGBoost (RMSE: 26.61), deployed via Flask API + Streamlit + Power BI dashboard.
-🔗 Repo: https://github.com/kabir-phutela/dynamic-pricing
+## 🚀 Featured Projects  
 
-🔹 LoRa Railway Safety System (Research Paper — IJIRT)
+### 🔹 Dynamic Pricing with Machine Learning  
+Predictive model using **XGBoost** (RMSE: 26.61), Flask API, Streamlit UI & Power BI dashboard.  
+🔗 Repo: https://github.com/kabir-phutela/dynamic-pricing  
 
-📌 Published a LoRa-based accident prevention architecture leveraging long-range communication for hazard detection.
+### 🔹 Sales Insight Engine  
+EDA-driven insights uncovering demographic patterns, survival distribution, and class variations.  
+🔗 Repo: https://github.com/kabir-phutela/Sales-Insight-Engine  
 
-🛠 Tech Stack
+### 🔹 LoRa-Based Railway Safety System  
+Published research on using LoRa communication for early railway accident detection.  
+📄 IJIRT, July 2025  
 
-Languages: Python, SQL, Java, C++
-Data Tools: Pandas, NumPy, Power BI
-ML/AI: Scikit-learn, XGBoost, TensorFlow
-Deployment: Flask, Streamlit, AWS
-Other: Git, Docker, Jupyter, APIs
+---
 
+## 🛠 Tech Stack  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,aws,git,github,docker,flask,sklearn,tensorflow,sqlite,mysql,powershell" />
+</p>
 
+---
 
-GitHub: github.com/kabir-phutela
-LinkedIn: Add your link here
-Email: Add your email here
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kabir-phutela&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-phutela&layout=compact&theme=default" height="150"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kabir-phutela&theme=default"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kabir-phutela&theme=flat&margin-w=10"/>
+</p>
+
+---
+
+## 📊 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabir-phutela&theme=github"/>
+</p>
+
+---
+
+## 📬 Connect With Me  
+<p align="center">
+  <a href="https://github.com/kabir-phutela"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+</p>
+
+---
+
+<p align="center">✨ Open to internships, freelance projects, and collaborations ✨</p>
