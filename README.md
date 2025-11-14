@@ -25,6 +25,16 @@ ML/AI: Scikit-learn, XGBoost, TensorFlow
 Deployment: Flask, Streamlit, AWS
 Other: Git, Docker, Jupyter, APIs
 
+
+📊 Advanced GitHub Statistics
+🔥 Contribution Streak
+
+📘 Contribution Breakdown
+
+🛠 PRs, Issues, and Contributions
+
+🏆 GitHub Achievements / Trophies
+
 📬 Connect with Me
 
 GitHub: github.com/kabir-phutela
